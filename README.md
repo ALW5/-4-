@@ -21,3 +21,4 @@
  Количество фильмов "Хочу посмотреть"
  Количество "Просмотренных" фильмов
 https://github.com/ALW5/-4-/blob/main/SCREEN/Screenshot_1.png
+https://github.com/ALW5/-4-/blob/main/SCREEN/Screenshot_2.png
